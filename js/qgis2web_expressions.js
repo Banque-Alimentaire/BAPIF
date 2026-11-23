@@ -754,3 +754,30 @@ function fnc__specialcol_(values, context) {
 function fnc_project_color(values, context) {
     return false;
 };
+
+
+
+function exp_label_ArodromeLognesmerainville2026_9_eval_expression(context) {
+    // 'Aérodrome Lognes-Émerainville'
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return 'Aérodrome Lognes-Émerainville';
+    } else {
+        return 'Aérodrome Lognes-Émerainville';
+    }
+}
+
+
+function exp_label_ArodromeLognesmerainville2026_9_eval_expression(context) {
+    // 'Aérodrome Lognes-Émerainville'
+
+    var feature = context.feature;
+    
+    if (feature.properties) {
+        return 'Aérodrome Lognes-Émerainville';
+    } else {
+        return 'Aérodrome Lognes-Émerainville';
+    }
+}
